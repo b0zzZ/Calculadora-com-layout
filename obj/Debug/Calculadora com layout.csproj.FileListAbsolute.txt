@@ -1,0 +1,11 @@
+C:\Users\Ezequiel\Desktop\Projetos\Projetos C#\Calculadora com layout\Calculadora com layout\bin\Debug\Calculadora com layout.exe.config
+C:\Users\Ezequiel\Desktop\Projetos\Projetos C#\Calculadora com layout\Calculadora com layout\bin\Debug\Calculadora com layout.exe
+C:\Users\Ezequiel\Desktop\Projetos\Projetos C#\Calculadora com layout\Calculadora com layout\bin\Debug\Calculadora com layout.pdb
+C:\Users\Ezequiel\Desktop\Projetos\Projetos C#\Calculadora com layout\Calculadora com layout\obj\Debug\Calculadora com layout.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Desktop\Projetos\Projetos C#\Calculadora com layout\Calculadora com layout\obj\Debug\Calculadora com layout.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ezequiel\Desktop\Projetos\Projetos C#\Calculadora com layout\Calculadora com layout\obj\Debug\Calculadora_com_layout.Form1.resources
+C:\Users\Ezequiel\Desktop\Projetos\Projetos C#\Calculadora com layout\Calculadora com layout\obj\Debug\Calculadora_com_layout.Properties.Resources.resources
+C:\Users\Ezequiel\Desktop\Projetos\Projetos C#\Calculadora com layout\Calculadora com layout\obj\Debug\Calculadora com layout.csproj.GenerateResource.cache
+C:\Users\Ezequiel\Desktop\Projetos\Projetos C#\Calculadora com layout\Calculadora com layout\obj\Debug\Calculadora com layout.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Desktop\Projetos\Projetos C#\Calculadora com layout\Calculadora com layout\obj\Debug\Calculadora com layout.exe
+C:\Users\Ezequiel\Desktop\Projetos\Projetos C#\Calculadora com layout\Calculadora com layout\obj\Debug\Calculadora com layout.pdb
