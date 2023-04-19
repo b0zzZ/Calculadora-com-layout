@@ -97,29 +97,30 @@ namespace Calculadora_com_layout
         {
             valor2 = decimal.Parse(txtResultado.Text, CultureInfo.InvariantCulture);
 
-            if(operacao == "SOMA")
+            switch (operacao)
             {
-                txtResultado.Text = Convert.ToString(valor1 + valor2);
+                case "SOMA":
+                    txtResultado.Text = Convert.ToString(valor1 + valor2);
+                    break;
+
+
+                case "SUBT":
+                    txtResultado.Text = Convert.ToString(valor1 - valor2);
+                    break;
+
+                case "MULT":
+                    txtResultado.Text = Convert.ToString(valor1 * valor2);
+                    break;
+
+                case "DIV":
+                    txtResultado.Text = Convert.ToString(valor1 / valor2);
+                    break;
+
+                default:
+                    txtResultado.Text = "";
+                    break;
             }
 
-            else if(operacao == "SUBT")
-            {
-                txtResultado.Text = Convert.ToString(valor1 - valor2);
-            }
-
-            else if(operacao == "MULT")
-            {
-                txtResultado.Text = Convert.ToString(valor1 * valor2);
-            }
-            else if(operacao == "DIV")
-            {
-                txtResultado.Text = Convert.ToString(valor1 / valor2);
-            }
-
-            else
-            {
-                txtResultado.Text = "";
-            }
         }
 
         private void buttonX_Click(object sender, EventArgs e)
